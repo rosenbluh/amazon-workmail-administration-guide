@@ -76,7 +76,7 @@ Both sender and recipient patterns take one of the following forms:
 + **A wildcard domain** matches all email addresses under that domain and all of its subdomains\. A wildcard appears only at the front of a domain; for example:
 
   ```
-  *example.com
+  *.example.com
   ```
 + **Star** matches any email addresses under any domain\.
 
